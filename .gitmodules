@@ -2,3 +2,7 @@
 	path = screen-captures
 	url = https://github.com/DouglasUrner/Common-Info-Screen-Captures.git
 	branch = master
+[submodule "submissions"]
+	path = submissions
+	url = https://github.com/DouglasUrner/Common-Info-Submissions.git
+	branch = master
