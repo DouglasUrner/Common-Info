@@ -1,0 +1,4 @@
+[submodule "screen-captures"]
+	path = screen-captures
+	url = https://github.com/DouglasUrner/Common-Info-Screen-Captures.git
+	branch = master
